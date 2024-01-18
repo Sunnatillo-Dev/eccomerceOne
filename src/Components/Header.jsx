@@ -38,6 +38,8 @@ const Header = () => {
   ];
   return (
     <Flex
+
+    zIndex={298472837482374}
       position={"fixed"}
       width={"100%"}
       background="white"
